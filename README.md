@@ -1,16 +1,15 @@
-## Hi there 👋
+# Jonathan T. Smith Jr.
 
-<!--
-**Jtjr86/Jtjr86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder of **DeAlgo Technologies**. I build AI document workflows that let teams verify extracted information before it reaches their systems.
 
-Here are some ideas to get you started:
+## What DeAlgo builds
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Document review** — turn source documents into structured records with evidence reviewers can inspect.
+- **Human approval** — bring missing or conflicting information to a reviewer before it moves downstream.
+- **Decision records** — capture what was approved or corrected so teams can trace decisions back to the source.
+
+## See it in action
+
+[Try the evidence review demo](https://www.dealgo.io/#demo) with synthetic data. Compare clear, missing, and conflicting evidence, then review a sample decision.
+
+[Explore a fixed-scope pilot](https://www.dealgo.io/#pilot) for one document type and one review workflow.
